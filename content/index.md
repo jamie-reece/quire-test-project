@@ -7,4 +7,4 @@ toc: false
 image: spiral-overlay.png
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+This is a short paragraph where you would aim to introduce your project in a way that would be engaging and catch potential readers' attention. Ad dolore ullamco veniam voluptate ad id incididunt id excepteur pariatur ad quis ad Lorem. Adipisicing est esse est qui do id minim cillum nostrud amet adipisicing officia eiusmod. In minim labore Lorem veniam cupidatat amet incididunt duis consequat incididunt.

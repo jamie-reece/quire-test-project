@@ -1,6 +1,6 @@
 ---
 title: Introduction
-subtitle: A Tale of Two Photographers
+subtitle: Subtitle to introduction
 layout: splash
 order: 10
 image: figures/lange-house.jpg
