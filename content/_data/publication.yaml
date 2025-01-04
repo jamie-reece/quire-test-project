@@ -49,15 +49,22 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jbowman
+  - id: pauthor
     type: primary
-    first_name: Jamie
-    last_name: Bowman
-    title: Production Manager
-    affiliation: University of London
-    bio: "Contributor bio goes here."
+    first_name: Author
+    last_name: Name
+    title: Job title
+    affiliation: Affiliation
+    bio: "Primary author bio goes here."
     url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
     image: contributors/judith-keller.jpg
+  - id: sauthor
+    type: secondary
+    first_name: Author
+    last_name: Name
+    title: Job title
+    affiliation: Affiliation
+    bio: "Secondary author bio goes here."
 
 # ------------------------------------------------------------------------------
 # Copright & License
